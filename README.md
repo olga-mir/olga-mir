@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Melbourne-based Platform Engineer with soft spot for all things Kubernetes. I am especially interested in networking, performance and low level Linux, however this is not main part of my day job currently.
+
+I'm experimenting with Cluster API and learning Cilium here: https://github.com/olga-mir/k8s-multi-cluster
+
+When I am not glued to my screen, I enjoy long distance running and camping.
+
+[LinkedIn](https://www.linkedin.com/in/olgamirensky/)
+
 <!--
 **olga-mir/olga-mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
